@@ -1,15 +1,5 @@
-# Basic Sample Hardhat Project
+This is an minimum vital product (mvp) DApp: NFT Marketplace that is run by a smart contact. You can easily pick any image and turn it into an NFT (ERC721) with one click and sell it on the marketplace. Your NFT lives on IPFS decentralized storage system.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Tech Stack: Solidity, Hardhat, IPFS, EtherJS, NextJS
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+This is the video demo: https://www.youtube.com/watch?v=ni67aakZzQ4
